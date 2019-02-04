@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1336319141 source:d:\ramine91\complex\my.cpp
+	"my.h"
+
+1336808709 d:\ramine91\complex\my.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1336319141 source:d:\ramine91\complex\main.cpp
+	"my.h"
+
+1345111640 source:d:\ramine902\complex\my.cpp
+	"my.h"
+
+1336805109 d:\ramine902\complex\my.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1336315541 source:d:\ramine902\complex\main.cpp
+	"my.h"
+
+1549188100 source:e:\ramine902\complex\my.cpp
+	"my.h"
+
+1336808709 e:\ramine902\complex\my.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1549187846 source:e:\ramine902\complex\main.cpp
+	"my.h"
+
